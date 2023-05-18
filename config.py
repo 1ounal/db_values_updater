@@ -1,0 +1,10 @@
+DB_NAME = 'input your value'
+DB_HOST = 'localhost'   # or your
+DB_PORT = '3306'    # or your
+DB_USER = 'input your value'
+DB_PASSWORD = 'input your value'
+DB_TYPE = 'mariadb'     # or your
+DB_DRIVER = 'pymysql'    # or your
+COLUMN_NAME_DETAIL = 'network'  # or your
+OLD_VALUE = 'trc20'    # or your
+NEW_VALUE = 'TRC20'    # or your
